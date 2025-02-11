@@ -1,3 +1,4 @@
+<h1><a href="https://sean-mongey.github.io/eyes/">Following Eyes</a></h1>
 <!--------------Summary---------------->
 This program has a set of eyes that follow your mouse's every move.
 <!-------------How to Use----------------->
